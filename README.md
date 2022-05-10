@@ -1,3 +1,8 @@
+This projects is based on Udemy "React - The Complete Guide (incl Hooks, React Router, Redux) Maximilian Schwarzmüller" course and i've done this project based on this course. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
